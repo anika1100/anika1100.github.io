@@ -1,0 +1,630 @@
+/* screen - landing-page */
+
+.landing-page {
+  align-items: center;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2348px;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.landing-page .accesstime-24px-1-XXegob {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 16px;
+  margin-bottom: 0.05px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+}
+.landing-page .an-application-nal-medical-aid-7MYZi5 {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 205px;
+  width: 306px;
+}
+.landing-page .browse-from-hun-ions-and-events-3obhjG {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 177px;
+  width: 291px;
+}
+.landing-page .coming-soon-summer-2021-Lkbi0s {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 858px;
+}
+.landing-page .ellipse-1-0MyRTr {
+  background-color: transparent;
+  height: 1218px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 2445px;
+}
+.landing-page .email-list-0MyRTr {
+  background-color: transparent;
+  color: var(--tall-poppy);
+  cursor: pointer;
+  font-family: var(--font-family-proxima_nova-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1026px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 985px;
+  width: 158px;
+}
+.landing-page .email-list-Rs56K9 {
+  background-color: transparent;
+  color: var(--tall-poppy);
+  cursor: pointer;
+  font-family: var(--font-family-proxima_nova-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 124px;
+}
+.landing-page .find-what-works-for-you-3obhjG {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  width: 325px;
+}
+.landing-page .find-your-passi-f-a-few-buttons-0MyRTr {
+  background-color: transparent;
+  height: auto;
+  left: 1025px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 905px;
+  width: 341px;
+}
+.landing-page .flex-row-0MUxxh {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 348px;
+  justify-content: flex-start;
+  margin-left: 8.0px;
+  margin-top: 106px;
+  min-width: 866px;
+  position: relative;
+  width: auto;
+}
+.landing-page .flex-row-gwJAt7 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 247px;
+  justify-content: flex-start;
+  margin-left: 10.0px;
+  margin-top: 112px;
+  min-width: 860px;
+  position: relative;
+  width: auto;
+}
+.landing-page .group-6-7MYZi5 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 18px;
+  justify-content: flex-start;
+  left: 139px;
+  min-width: 118px;
+  position: absolute;
+  top: 247px;
+  width: auto;
+}
+.landing-page .group-7-7MYZi5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 18px;
+  justify-content: flex-start;
+  left: 153px;
+  min-width: 89px;
+  position: absolute;
+  top: 267px;
+  width: auto;
+}
+.landing-page .group-8-x033L4 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 27px;
+  justify-content: flex-start;
+  left: 668px;
+  min-width: 104px;
+  position: absolute;
+  top: 250px;
+  width: auto;
+}
+.landing-page .group-NChD5x {
+  align-items: flex-end;
+  background-color: transparent;
+  background-image: url(../img/vector-8@2x.svg);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 23px;
+  justify-content: flex-end;
+  min-width: 23px;
+  padding: 0 5.8px;
+  position: relative;
+  width: auto;
+}
+.landing-page .group-X7JnVY {
+  background-color: transparent;
+  background-image: url(../img/vector-5@2x.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 23px;
+  margin-top: 1px;
+  position: relative;
+  width: 23px;
+}
+.landing-page .healthcare-internship-program-7MYZi5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-red_hat_text);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  width: 357px;
+}
+.landing-page .iconfinder1-f-copy5296499-1-X7JnVY {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 23px;
+  justify-content: flex-start;
+  margin-left: 16px;
+  margin-top: 1px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 23px;
+}
+.landing-page .internship-MyC8VU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 8px;
+  min-height: 18px;
+  min-width: 66px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 66px;
+}
+.landing-page .join-our-email-on-our-platform-Lkbi0s {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  width: 559px;
+}
+.landing-page .mail-24px-1-1-X7JnVY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 27px;
+  margin-left: 15px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 27px;
+}
+.landing-page .mc-logo-v2-1-0MyRTr {
+  background-color: transparent;
+  height: 116px;
+  left: 1026px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 258px;
+}
+.landing-page .mc-logo-v2-1-x033L4 {
+  background-color: transparent;
+  height: 119px;
+  left: 581px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 278px;
+}
+.landing-page .medical-opportu-by-you-for-you-0MyRTr {
+  background-color: transparent;
+  height: auto;
+  left: 1025px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 678px;
+  width: 358px;
+}
+.landing-page .overlap-group-0MUxxh {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1218px;
+  margin-left: -728px;
+  margin-top: -410px;
+  position: relative;
+  width: 2445px;
+}
+.landing-page .overlap-group1-3PbxRU {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 294px;
+  margin-left: 147px;
+  position: relative;
+  width: 325px;
+}
+.landing-page .overlap-group2-3PbxRU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 304px;
+  position: relative;
+  width: 394px;
+}
+.landing-page .overlap-group3-z8v2Q0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 184px;
+  margin-bottom: 9.0px;
+  position: relative;
+  width: 359px;
+}
+.landing-page .overlap-group4-0MUxxh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 97px;
+  margin-left: 2.0px;
+  margin-top: 150px;
+  position: relative;
+  width: 858px;
+}
+.landing-page .overlap-group5-0MUxxh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-top: 8px;
+  position: relative;
+  width: 156px;
+}
+.landing-page .overlap-group6-0MUxxh {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 332px;
+  margin-top: 98px;
+  position: relative;
+  width: 1440px;
+}
+.landing-page .rectangle-24-7MYZi5 {
+  background-color: transparent;
+  height: 175px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+.landing-page .rectangle-25-7MYZi5 {
+  background-color: transparent;
+  height: 137px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 167px;
+  width: 394px;
+}
+.landing-page .rectangle-27-0MyRTr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 1693px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 490px;
+  width: 156px;
+}
+.landing-page .rectangle-28-x033L4 {
+  background-color: #efd3d3;
+  height: 332px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.landing-page .rectangle-29-0MyRTr {
+  background-color: #fffffa;
+  border-radius: 9px;
+  cursor: pointer;
+  height: 42px;
+  left: 1026px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 975px;
+  width: 156px;
+}
+.landing-page .rectangle-30-Rs56K9 {
+  background-color: #efd3d3;
+  border-radius: 9px;
+  cursor: pointer;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+.landing-page .register-0MyRTr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: 1738px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 503px;
+  width: 67px;
+}
+.landing-page .summer-2021-XXegob {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 10px;
+  min-height: 18px;
+  min-width: 92px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: 92px;
+}
+.landing-page .undrawmedicalresearchqg4d-1-z8v2Q0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 247px;
+  margin-left: 136px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 365px;
+}
+.landing-page .undrawmedicineb1ol-1-0MyRTr {
+  background-color: transparent;
+  height: 309px;
+  left: 1424px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 702px;
+  width: 436px;
+}
+.landing-page .vector-30b3tZ {
+  background-color: transparent;
+  height: 13px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 13px;
+}
+.landing-page .vector-DQC5X7 {
+  background-color: transparent;
+  height: 4px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+.landing-page .vector-WvpynQ {
+  background-color: transparent;
+  height: 8px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+.landing-page .vector-XLA4NF {
+  background-color: transparent;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+.landing-page .vector-aD4R3E {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+.landing-page .vector-oNuFcC {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 19px;
+  margin-bottom: -0.25px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 11px;
+}
+.landing-page .vector-rMM8sl {
+  background-color: transparent;
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+.landing-page .vector-t4DyFE {
+  background-color: transparent;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+.landing-page .vector-xiYfJR {
+  background-color: transparent;
+  height: 19px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 23px;
+}
+.landing-page .vector-xmmxe4 {
+  background-color: transparent;
+  height: 13px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.landing-page .we-have-all-the-need-to-succeed-MWrNoB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  width: 311px;
+}
+.landing-page .work-24px-1-MyC8VU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 15px;
+  margin-top: 0.68px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 15px;
+}
+.landing-page .work-towards-a-med-career-MWrNoB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 359px;
+}
+.landing-page .x2021-med-connec-rights-reserved-x033L4 {
+  background-color: transparent;
+  color: #ffffff;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 581px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 192px;
+  width: 280px;
+}
