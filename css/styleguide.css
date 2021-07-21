@@ -1,0 +1,33 @@
+:root {
+  --black: #000000;
+  --tall-poppy: #b02727;
+
+  --font-size-l: 48px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-proxima_nova-bold: "Proxima Nova-Bold", Helvetica;
+  --font-family-red_hat_text: "Red Hat Text", Helvetica;
+}
+.proximanova-bold-tall-poppy-48px {
+  color: var(--tall-poppy);
+  font-family: var(--font-family-proxima_nova-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+.redhattext-normal-tall-poppy-18px {
+  color: var(--tall-poppy);
+  font-family: var(--font-family-red_hat_text);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.redhattext-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-red_hat_text);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
